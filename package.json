@@ -7,11 +7,12 @@
   },
   "main": "server.js",
   "scripts": {
+     "start": "node index.js",
 "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
-    "lint:fix:file": "eslint --fix ",
-     "start": "node dist/server.js"
+    "lint:fix:file": "eslint --fix "
+    
 },
   "keywords": [
     "Express",
