@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "lint:fix:file": "eslint --fix ",
-     "start": "node index.js"
+     "start": "node dist/server.js"
 },
   "keywords": [
     "Express",
