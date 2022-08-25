@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Todo App for interview process",
    "engines": {
-    "node": "10.1.124.8"
+    "node": "6.13.4"
   },
   "main": "server.js",
   "scripts": {
